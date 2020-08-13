@@ -1,0 +1,14 @@
+#This file is a .txt because the MarkDown from the Teams assignment is a paid plugin that requires a license. Unsure if this was discussed a the meeting I missed :(.
+
+SENSOR ARRANGEMENT
+1. Touch sensor at front
+2. Distance sensor at front
+3. Color sensor at front
+
+AUTONOMOUS PLAN
+1. Drive forward until touch
+2. Do the appropriate back up and turn left
+3. Drive forward until reading or distance is < 2" to ensure reading exists
+4. Reverse the same distance and perform opposite turn
+5. Use distance sensor to gauge movement.
+6. Move backwards through appropriate threshold.
